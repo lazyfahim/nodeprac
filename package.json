@@ -1,0 +1,29 @@
+{
+  "name": "nodeprac",
+  "version": "1.0.0",
+  "description": "this is a node practice project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazyfahim/nodeprac.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "js",
+    "mongodb"
+  ],
+  "author": "Syed Mohammad Fahim Abrar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lazyfahim/nodeprac/issues"
+  },
+  "homepage": "https://github.com/lazyfahim/nodeprac#readme",
+  "dependencies": {
+    "mongoose": "^5.4.17",
+    "underscore": "^1.9.1"
+  }
+}
